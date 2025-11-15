@@ -6,8 +6,8 @@ h1
 }
 
 .img_preview{
-    width: 25%;
-    height: 25%;
+    width: 40%;
+    height: 40%;
     background-color: cadetblue;
     border-radius: 20px;
     display: flex;
